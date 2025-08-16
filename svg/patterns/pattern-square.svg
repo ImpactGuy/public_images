@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="120" viewBox="0 0 100 120">
+  <defs>
+      <clipPath xmlns="http://www.w3.org/2000/svg" id="clip-path-dot-color-6473">
+        <rect x="43" y="13" width="13" height="13" transform="rotate(0,49.5,19.5)"/>
+        <rect x="56" y="13" width="13" height="13" transform="rotate(0,62.5,19.5)"/>
+        <rect x="69" y="13" width="13" height="13" transform="rotate(0,75.5,19.5)"/>
+        <rect x="17" y="26" width="13" height="13" transform="rotate(0,23.5,32.5)"/>
+        <rect x="30" y="26" width="13" height="13" transform="rotate(0,36.5,32.5)"/>
+        <rect x="69" y="26" width="13" height="13" transform="rotate(0,75.5,32.5)"/>
+        <rect x="30" y="39" width="13" height="13" transform="rotate(0,36.5,45.5)"/>
+        <rect x="17" y="52" width="13" height="13" transform="rotate(0,23.5,58.5)"/>
+        <rect x="30" y="52" width="13" height="13" transform="rotate(0,36.5,58.5)"/>
+        <rect x="69" y="52" width="13" height="13" transform="rotate(0,75.5,58.5)"/>
+        <rect x="17" y="65" width="13" height="13" transform="rotate(0,23.5,71.5)"/>
+        <rect x="43" y="65" width="13" height="13" transform="rotate(0,49.5,71.5)"/>
+        <rect x="56" y="65" width="13" height="13" transform="rotate(0,62.5,71.5)"/>
+        <rect x="69" y="65" width="13" height="13" transform="rotate(0,75.5,71.5)"/>
+        <rect x="30" y="78" width="13" height="13" transform="rotate(0,36.5,84.5)"/>
+        <rect x="56" y="78" width="13" height="13" transform="rotate(0,62.5,84.5)"/>
+        <rect x="69" y="78" width="13" height="13" transform="rotate(0,75.5,84.5)"/>
+      </clipPath>
+  </defs>
+  <rect xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="300" width="300" clip-path="url('#clip-path-dot-color-6473')" fill="#2c303a"/>
+</svg>

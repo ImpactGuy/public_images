@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <clipPath xmlns="http://www.w3.org/2000/svg" id="clip-path-corners-dot-color-0-0-6355"><circle cx="39.5" cy="39.5" r="5.5" transform="rotate(0,39.5,39.5)"/><circle cx="50.5" cy="39.5" r="5.5" transform="rotate(0,50.5,39.5)"/><circle cx="61.5" cy="39.5" r="5.5" transform="rotate(0,61.5,39.5)"/><circle cx="39.5" cy="50.5" r="5.5" transform="rotate(0,39.5,50.5)"/><circle cx="50.5" cy="50.5" r="5.5" transform="rotate(0,50.5,50.5)"/><circle cx="61.5" cy="50.5" r="5.5" transform="rotate(0,61.5,50.5)"/><circle cx="39.5" cy="61.5" r="5.5" transform="rotate(0,39.5,61.5)"/><circle cx="50.5" cy="61.5" r="5.5" transform="rotate(0,50.5,61.5)"/><circle cx="61.5" cy="61.5" r="5.5" transform="rotate(0,61.5,61.5)"/></clipPath>
+  </defs>
+  <rect xmlns="http://www.w3.org/2000/svg" x="34" y="34" height="33" width="33" clip-path="url('#clip-path-corners-dot-color-0-0-6355')" fill="#2c303a"/>
+</svg>

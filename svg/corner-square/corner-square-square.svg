@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="101" height="101" viewBox="0 0 101 101">
+  <defs>
+    <clipPath xmlns="http://www.w3.org/2000/svg" id="clip-path-corners-square-color-0-0-6293"><path clip-rule="evenodd" d="M 12 12v 77h 77v -77zM 23 23h 55v 55h -55z" transform="rotate(0,50.5,50.5)"/></clipPath>
+  </defs>
+  <rect xmlns="http://www.w3.org/2000/svg" x="12" y="12" height="77" width="77" clip-path="url('#clip-path-corners-square-color-0-0-6293')" fill="#2c303a"/>
+</svg>

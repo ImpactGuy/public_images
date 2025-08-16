@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="120" viewBox="0 0 100 120">
+  <defs>
+     <clipPath xmlns="http://www.w3.org/2000/svg" id="clip-path-dot-color-6466">
+       <circle cx="49.5" cy="19.5" r="6.5" transform="rotate(0,49.5,19.5)"/>
+       <circle cx="62.5" cy="19.5" r="6.5" transform="rotate(0,62.5,19.5)"/>
+       <circle cx="75.5" cy="19.5" r="6.5" transform="rotate(0,75.5,19.5)"/>
+       <circle cx="23.5" cy="32.5" r="6.5" transform="rotate(0,23.5,32.5)"/>
+       <circle cx="36.5" cy="32.5" r="6.5" transform="rotate(0,36.5,32.5)"/>
+       <circle cx="75.5" cy="32.5" r="6.5" transform="rotate(0,75.5,32.5)"/>
+       <circle cx="36.5" cy="45.5" r="6.5" transform="rotate(0,36.5,45.5)"/>
+       <circle cx="23.5" cy="58.5" r="6.5" transform="rotate(0,23.5,58.5)"/>
+       <circle cx="36.5" cy="58.5" r="6.5" transform="rotate(0,36.5,58.5)"/>
+       <circle cx="75.5" cy="58.5" r="6.5" transform="rotate(0,75.5,58.5)"/>
+       <circle cx="23.5" cy="71.5" r="6.5" transform="rotate(0,23.5,71.5)"/>
+       <circle cx="49.5" cy="71.5" r="6.5" transform="rotate(0,49.5,71.5)"/>
+       <circle cx="62.5" cy="71.5" r="6.5" transform="rotate(0,62.5,71.5)"/>
+       <circle cx="75.5" cy="71.5" r="6.5" transform="rotate(0,75.5,71.5)"/>
+       <circle cx="36.5" cy="84.5" r="6.5" transform="rotate(0,36.5,84.5)"/>
+       <circle cx="62.5" cy="84.5" r="6.5" transform="rotate(0,62.5,84.5)"/>
+       <circle cx="75.5" cy="84.5" r="6.5" transform="rotate(0,75.5,84.5)"/>
+     </clipPath>
+  </defs>
+  <rect xmlns="http://www.w3.org/2000/svg" x="0" y="0" height="300" width="300" clip-path="url('#clip-path-dot-color-6466')" fill="#2c303a"/>
+</svg>
